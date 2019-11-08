@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Eugene Taplists 
 
-You can use the [editor on GitHub](https://github.com/checkman1/eugene-taplists/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bars / Shops
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [16 Tons Bottleshop](http://sixteentons.biz/blog)
+- [Tap & Growler](http://tapandgrowler.com/beer-menu)
+- [Beer Garden](http://www.beergardenme.com/beer-menu)
+- [Bier Stein](http://thebierstein.com/tap-list)
+- [Growler Guys](http://www.thegrowlerguys.com/whats-on-tap/oregon-eugene)
 
-### Markdown
+## Breweries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Claim 52](https://www.claim52brewing.com/kitchen/on-tap-the-kitchen/)
+- [Coldfire](http://coldfirebrewing.com/beers/)
+- [Oakshire](https://oakbrew.com/public-house/current-tap-list/)
+- [Hop Valley](https://untappd.com/v/hop-valley-brewing-co/779358)
 
-```markdown
-Syntax highlighted code block
+## Restaurants
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/checkman1/eugene-taplists/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Hot Mamas](https://www.hotmamaswings.com/beermenu)
+- [The Cannery](http://www.theeugenecannery.com/beer-menu.html)
+- [McMenamins High Street](http://www.mcmenamins.com/483-high-street-brewery-cafe-ales)
+- [Fishermans Market](http://eugenefishmarket.com/fishermans-market-tap-list/)
