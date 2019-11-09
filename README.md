@@ -14,6 +14,8 @@
 - [Coldfire](http://coldfirebrewing.com/beers/)
 - [Oakshire](https://oakbrew.com/public-house/current-tap-list/)
 - [Hop Valley](https://untappd.com/v/hop-valley-brewing-co/779358)
+- [Falling Sky](https://fallingskybrewing.com/public-house-beer-menu/)
+- [Viking Braggot](https://www.drinkviking.com/whats-on-tap)
 
 ## Restaurants
 
